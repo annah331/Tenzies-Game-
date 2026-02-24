@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06j1hm",
-  "description": "https://scrimba.com/learn-react-c0e/~04ao",
+  "name": "Tenzies-Game",
+  "description": "Dice rolling game with responsive design",
   "scripts": {
     "start": "vite",
     "dev": "vite",
