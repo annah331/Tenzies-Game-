@@ -16,6 +16,7 @@ Players roll dice until all values match, with the ability to hold selected dice
 - HTML5
 - CSS3
 - JavaScript
+- React
 
 ---
 
