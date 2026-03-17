@@ -45,4 +45,4 @@ Players roll dice until all values match, with the ability to hold selected dice
 
 ## 👩🏽‍💻 Author
 Annah Molekoa  
-Junior Frontend Developer
+Frontend Developer
